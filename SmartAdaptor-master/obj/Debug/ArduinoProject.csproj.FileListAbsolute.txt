@@ -1,0 +1,41 @@
+C:\Users\M294634\source\repos\ArduinoProject\bin\Debug\ArduinoProject.exe.config
+C:\Users\M294634\source\repos\ArduinoProject\bin\Debug\ArduinoProject.exe
+C:\Users\M294634\source\repos\ArduinoProject\bin\Debug\ArduinoProject.pdb
+C:\Users\M294634\source\repos\ArduinoProject\obj\Debug\ArduinoProject.csprojAssemblyReference.cache
+C:\Users\M294634\source\repos\ArduinoProject\obj\Debug\ArduinoProject.Arduino.resources
+C:\Users\M294634\source\repos\ArduinoProject\obj\Debug\ArduinoProject.Properties.Resources.resources
+C:\Users\M294634\source\repos\ArduinoProject\obj\Debug\ArduinoProject.csproj.GenerateResource.cache
+C:\Users\M294634\source\repos\ArduinoProject\obj\Debug\ArduinoProject.exe
+C:\Users\M294634\source\repos\ArduinoProject\obj\Debug\ArduinoProject.pdb
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Arduino Project\ArduinoProject\bin\Debug\ArduinoProject.exe.config
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Arduino Project\ArduinoProject\bin\Debug\ArduinoProject.exe
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Arduino Project\ArduinoProject\bin\Debug\ArduinoProject.pdb
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Arduino Project\ArduinoProject\obj\Debug\ArduinoProject.csproj.AssemblyReference.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Arduino Project\ArduinoProject\obj\Debug\ArduinoProject.Arduino.resources
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Arduino Project\ArduinoProject\obj\Debug\ArduinoProject.Properties.Resources.resources
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Arduino Project\ArduinoProject\obj\Debug\ArduinoProject.csproj.GenerateResource.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Arduino Project\ArduinoProject\obj\Debug\ArduinoProject.csproj.CoreCompileInputs.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Arduino Project\ArduinoProject\obj\Debug\ArduinoProject.exe
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Arduino Project\ArduinoProject\obj\Debug\ArduinoProject.pdb
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\obj\Debug\ArduinoProject.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\obj\Debug\ArduinoProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\obj\Debug\ArduinoProject.Arduino.resources
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\obj\Debug\ArduinoProject.Properties.Resources.resources
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\obj\Debug\ArduinoProject.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\obj\Debug\ArduinoProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\obj\Debug\ArduinoProject.exe
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\obj\Debug\ArduinoProject.pdb
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\bin\Debug\ArduinoProject.exe.config
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\bin\Debug\ArduinoProject.exe
+C:\Users\hp\Downloads\SmartAdaptor-master\SmartAdaptor-master\bin\Debug\ArduinoProject.pdb
+E:\Magang\SmartAdaptor-master\bin\Debug\ArduinoProject.exe.config
+E:\Magang\SmartAdaptor-master\bin\Debug\ArduinoProject.exe
+E:\Magang\SmartAdaptor-master\bin\Debug\ArduinoProject.pdb
+E:\Magang\SmartAdaptor-master\obj\Debug\ArduinoProject.csproj.AssemblyReference.cache
+E:\Magang\SmartAdaptor-master\obj\Debug\ArduinoProject.csproj.SuggestedBindingRedirects.cache
+E:\Magang\SmartAdaptor-master\obj\Debug\ArduinoProject.Arduino.resources
+E:\Magang\SmartAdaptor-master\obj\Debug\ArduinoProject.Properties.Resources.resources
+E:\Magang\SmartAdaptor-master\obj\Debug\ArduinoProject.csproj.GenerateResource.cache
+E:\Magang\SmartAdaptor-master\obj\Debug\ArduinoProject.csproj.CoreCompileInputs.cache
+E:\Magang\SmartAdaptor-master\obj\Debug\ArduinoProject.exe
+E:\Magang\SmartAdaptor-master\obj\Debug\ArduinoProject.pdb
